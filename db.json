@@ -1,27 +1,29 @@
-[
-  {
-    "name": "Laptop ASUS",
-    "price": 1000,
-    "description": "Laptop ASUS dengan prosesor cepat dan layar tajam."
-  },
-  {
-    "name": "Smartphone Samsung Galaxy",
-    "price": 600,
-    "description": "Smartphone canggih dengan kamera yang hebat."
-  },
-  {
-    "name": "TV LED Sony",
-    "price": 800,
-    "description": "TV LED Sony dengan resolusi 4K."
-  },
-  {
-    "name": "Kamera Canon EOS",
-    "price": 700,
-    "description": "Kamera DSLR Canon EOS untuk fotografi profesional."
-  },
-  {
-    "name": "Meja Kayu",
-    "price": 150,
-    "description": "Meja kayu dengan desain minimalis."
-  }
-]
+{
+  "data": [
+    {
+      "name": "Laptop ASUS",
+      "price": 1000,
+      "description": "Laptop ASUS dengan prosesor cepat dan layar tajam."
+    },
+    {
+      "name": "Smartphone Samsung Galaxy",
+      "price": 600,
+      "description": "Smartphone canggih dengan kamera yang hebat."
+    },
+    {
+      "name": "TV LED Sony",
+      "price": 800,
+      "description": "TV LED Sony dengan resolusi 4K."
+    },
+    {
+      "name": "Kamera Canon EOS",
+      "price": 700,
+      "description": "Kamera DSLR Canon EOS untuk fotografi profesional."
+    },
+    {
+      "name": "Meja Kayu",
+      "price": 150,
+      "description": "Meja kayu dengan desain minimalis."
+    }
+  ]
+}
