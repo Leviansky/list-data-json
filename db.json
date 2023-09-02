@@ -23,55 +23,5 @@
     "name": "Meja Kayu",
     "price": 150,
     "description": "Meja kayu dengan desain minimalis."
-  },
-  {
-    "name": "Kursi Kantor Ergonomis",
-    "price": 200,
-    "description": "Kursi kantor yang nyaman untuk produktivitas Anda."
-  },
-  {
-    "name": "Pakaian Pria",
-    "price": 50,
-    "description": "Pakaian pria trendy dan nyaman."
-  },
-  {
-    "name": "Sepatu Olahraga Nike",
-    "price": 120,
-    "description": "Sepatu olahraga Nike untuk kenyamanan berolahraga."
-  },
-  {
-    "name": "Buku Panduan Memasak",
-    "price": 25,
-    "description": "Buku panduan memasak dengan resep lezat."
-  },
-  {
-    "name": "Perhiasan Berlian",
-    "price": 2000,
-    "description": "Perhiasan berlian mewah untuk perayaan istimewa."
-  },
-  {
-    "name": "Kamera Aksi GoPro",
-    "price": 300,
-    "description": "Kamera aksi GoPro untuk merekam petualangan Anda."
-  },
-  {
-    "name": "Headphone Wireless",
-    "price": 80,
-    "description": "Headphone nirkabel dengan suara berkualitas tinggi."
-  },
-  {
-    "name": "Jaket Musim Dingin",
-    "price": 120,
-    "description": "Jaket musim dingin hangat dan stylish."
-  },
-  {
-    "name": "Alat Masak Set",
-    "price": 50,
-    "description": "Set alat masak lengkap untuk dapur Anda."
-  },
-  {
-    "name": "Mainan Anak Edukatif",
-    "price": 30,
-    "description": "Mainan anak yang mendukung pembelajaran."
   }
 ]
